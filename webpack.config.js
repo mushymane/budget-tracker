@@ -8,7 +8,8 @@ const config = {
     },
     output: {
         path: __dirname + '/public/dist',
-        filename: '[name].bundle.js'
+        filename: '[name].bundle.js',
+        publicPath: '' //removes auto from icons in manifest.json
     },
     mode: 'development',
     module: {
@@ -43,6 +44,7 @@ const config = {
                     sizes: [192, 512]
                 }
             ]
+            
         })
     ]
 }
