@@ -10,7 +10,7 @@ const config = {
         path: __dirname + '/public/dist',
         filename: '[name].bundle.js'
     },
-    mode: 'production',
+    mode: 'development',
     module: {
         rules: [
             {
