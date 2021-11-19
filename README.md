@@ -36,7 +36,7 @@ Try it out at: [Heroku](https://safe-mountain-42147.herokuapp.com/)
 
 ## Usage
 
-Click [here](https://safe-mountain-42147.herokuapp.com/) to start managing your budget.
+Click [here](https://safe-mountain-42147.herokuapp.com/) to start managing your budget. Enter the name of your transaction and an amount. Then select the appropriate button to add or subtract it from your balance.
 
 ## Code Snippet
 
