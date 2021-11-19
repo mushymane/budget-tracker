@@ -11,7 +11,7 @@ const config = {
         filename: '[name].bundle.js',
         publicPath: '' //removes auto from icons in manifest.json
     },
-    mode: 'development',
+    mode: 'production',
     module: {
         rules: [
             {
